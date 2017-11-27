@@ -11,7 +11,7 @@ function setup() {
 function draw() {
 
   background(255);
-  stroke(0);
+  noStroke();
 
 
   //Row 1
